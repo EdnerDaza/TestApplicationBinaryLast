@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Test Application Binary</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Entrar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Nombre</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">El email es invalido</string>
+    <string name="error_invalid_name">El nombre es invalido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_name">El nombre es incorrecto</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este Campo es requerido</string>
+    <string name="title_activity_clients">Clientes</string>
+    <string name="title_activity_add_client">Agregar Cliente</string>
+    <string name="prompt_phone">Telefono</string>
+    <string name="prompt_cc">Cedula</string>
+    <string name="title_activity_edit_client">Editar Cliente</string>
+    <string name="action_info">Informacion</string>
+    <string name="accept_button">Aceptar</string>
+    <string name="network_button">Ir a Configuraciones de Red</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="message_user">Usuario actual es %1$s y su nivel de permiso es %2$s (%3$s)\n%4$s</string>
+    <string name="message_delete">Desea ud borra el cliente %1$s de nuestra base de datos. ?</string>
+    <string name="error_conexion">No es posible conectar con %1$s. Asegúrate de tener conexión a
+        internet o inténtalo de nuevo más tarde.</string>
+    <string name="action_eliminar">Eliminar</string>
+</resources>
